@@ -227,17 +227,14 @@ and the height of a triangle and calculates the total area.
 
 # Handin/Grader Instructions
 
-1.  Hand in your completed files:
+Hand in your completed files:
 
-    -   `dollar.c`
+-   `dollar.c`
+-   `area.c`
 
-    -   `area.c`
+You should have completed your worksheet, but you won't be handing
+it in.  Be sure your program(s) pass all tests to get credit.
 
-    You should have completed your worksheet, but you won't be handing
-    it in.  Be sure your program(s) pass all tests to get credit.
-
-2.  Even if you worked with a partner, you *both* should turn in all
-    files.
 
 # Advanced Activities (Optional)
 
